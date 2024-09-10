@@ -1,6 +1,6 @@
 {
   "name": "solid-track",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A SolidJS hook to track signals even in asynchronous contexts.",
   "type": "module",
   "exports": "./dist/index.js",
